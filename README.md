@@ -7,3 +7,4 @@ High stereoselectivity, as well as activity, is essential for enzyme’s applica
 ## Usage
 `encoding.py`  is used to represent the amino acid sequence of an enzyme as input to the model.  
 `compare.py`  is used to compare the effectiveness of different representation methods.
+`train.py`  is used to train enzyme fitness prediction model.
