@@ -9,6 +9,8 @@ High stereoselectivity, as well as activity, is essential for enzyme’s applica
 `compare.py`  is used to compare the effectiveness of different representation methods.   
 `train.py`  is used to train enzyme fitness prediction model.
 
+## Contributing
+
 ## lisence
 MIT License
 
@@ -31,3 +33,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Acknowledgments
+
